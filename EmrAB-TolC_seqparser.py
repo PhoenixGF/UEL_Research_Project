@@ -1,4 +1,5 @@
-""" Don't run this code
+""" 
+
 # Creates folders for each species that has the protein and writes the fasta file in the folder
 import os
 
