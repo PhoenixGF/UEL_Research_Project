@@ -1,3 +1,5 @@
+# These scripts, separated by triple quotes ("""), use a search engine (Pubmed or Google Scholar) and output whether there are any results for a particular search
+
 import time
 import requests
 import bs4
