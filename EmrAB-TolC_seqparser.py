@@ -1,4 +1,7 @@
 """ 
+# This code contains several scripts, some of which are improvements on the older versions, the most recent ones being at the very bottom.
+# Separate scripts are delienated by a '#' (hash) followed by a line of '-' (dashes).
+# Brief code descriptions are given on top of each script.
 
 # Creates folders for each species that has the protein and writes the fasta file in the folder
 import os
