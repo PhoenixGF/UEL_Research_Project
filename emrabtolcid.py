@@ -1,4 +1,6 @@
 """
+# This script was written for a sample plot of the alignment data with R because the files with the identity values were one-dimensional (only y-axis i.e. identity values). 
+
 # Goes through the file with IDs and assigns a count to each, then writes that in a new file to make a plot
 filename = "D:/Phoenix/R/RScripts/Rtut/emrabtolcidentity_35blast.txt"
 newfilename = "D:/Phoenix/R/RScripts/Rtut/modemrabtolcid_35blast.txt"
