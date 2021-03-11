@@ -1,4 +1,8 @@
 """
+# This code contains several scripts, some of which are improvements on the older versions, the most recent ones being at the very bottom.
+# Separate scripts are delienated by a '#' (hash) followed by a line of '-' (dashes).
+# Brief code descriptions are given on top of each script.
+
 # Writes TolC fasta files in folders directly into the existing bacterial species folders
 
 import os
